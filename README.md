@@ -28,8 +28,7 @@ I also run [J.Sick Codes](https://www.jsick.codes), where I write code for more 
 - Email: [hi@jsick.codes](mailto:hi@jsick.codes)
 - Freelancing: [jsick.codes](https://jsick.codes)
 
-##### 🆕 What I'm working on in July 2021
+##### 🆕 What I'm working on in August 2022
 
-- Updating Rubin's Kubernetes infrastructure with [lsst-sqre/kafkit](https://github.com/lsst-sqre/kafkit) and [lsst-sqre/strimzi-registry-operator](https://github.com/lsst-sqre/strimzi-registry-operator)
-- New Python package template for Rubin in [lsst/templates](https://github.com/lsst/templates)
-- Building Composite GitHub Actions: [lsst-sqre/run-tox](https://github.com/lsst-sqre/run-tox), [lsst-sqre/build-and-publish-to-pypi](https://github.com/lsst-sqre/build-and-publish-to-pypi), [lsst-sqre/ltd-upload](https://github.com/lsst-sqre/ltd-upload)
+- Adding PR checks support to Times Square, our app for publishing parameterized notebooks that are rendered and hosted on the Rubin Science Platform ([lsst-sqre/times-square](https://github.com/lsst-sqre/times-square) and [lsst-sqre/squareone](https://github.com/lsst-sqre/squareone))
+- Exploring Storybook for developing React components and incrementally building design systems
