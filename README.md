@@ -31,11 +31,11 @@ I also run [J.Sick Codes](https://www.jsick.codes), where I write code for more 
 - **Email:** [hi@jsick.codes](mailto:hi@jsick.codes)
 - **Freelancing:** [jsick.codes](https://jsick.codes)
 
-##### 🆕 What I'm working on in September 2022
+##### 🆕 What I'm working on in November 2022
 
-- I'm updating the theme and infrastructure for Rubin Observatory's user guides in [Documenteer](https://documenteer.lsst.io/guides/index.html). I'm adding a TOML-based configuration layer on top of Sphinx's `conf.py` ot make it easier to use and customize in specific Rubin projects.
+I'm building Technote ([lsst-sqre/technote](https://github.com/lsst-sqre/technote)), a Sphinx-based framework for writing single-page technical reports, along with a customization for Rubin Observatory in Documenteer, [lsst-sqre/documenteer](https://github.com/lsst-sqre/documenteer). Technote is a refined iteration on the web-paged technical notes that we originally brought to Rubin back in 2015 ([sqr-000.lsst.io](https://sqr-000.lsst.io)).
 
-In August 2022:
+Previously September–October 2022:
 
-- Adding PR checks support to Times Square, our app for publishing parameterized notebooks that are rendered and hosted on the Rubin Science Platform ([lsst-sqre/times-square](https://github.com/lsst-sqre/times-square) and [lsst-sqre/squareone](https://github.com/lsst-sqre/squareone))
-- Exploring Storybook for developing React components and incrementally building design systems
+- Shipped the new theme and configuration preset for Rubin Observatory's user guides in [Documenteer](https://documenteer.lsst.io/guides/index.html).
+- Overhauled the [Phalanx documentation](https://phalanx.lsst.io), Rubin/SQuaRE's Kubernetes deployment platform, based on Argo CD. Besides organizing and enhancing the narrative documentation, the new documentation has automations for documenting application and environment (cluster) configurations based on their Helm charts.
