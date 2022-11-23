@@ -23,10 +23,13 @@ I also run [J.Sick Codes](https://www.jsick.codes), where I write code for more 
 
 ##### 📫 Where to find me
 
-- Blog: [www.jonathansick.blog](https://www.jonathansick.blog) and [micro.blog/jonathansick](https://micro.blog/jonathansick).
-- Twitter: [@jonathansick](https://twitter.com/jonathansick)
-- Email: [hi@jsick.codes](mailto:hi@jsick.codes)
-- Freelancing: [jsick.codes](https://jsick.codes)
+- **Micro blog:** [www.jonathansick.blog](https://www.jonathansick.blog)
+- **Social web:**
+  - **ActivityPub (for Mastodon):** [@jonathan@jonathansick.blog](https://micro.blog/jonathansick)
+  - **Micro.blog:** [@jonathansick](https://micro.blog/jonathansick)
+- **Twitter:** [@jonathansick](https://twitter.com/jonathansick)
+- **Email:** [hi@jsick.codes](mailto:hi@jsick.codes)
+- **Freelancing:** [jsick.codes](https://jsick.codes)
 
 ##### 🆕 What I'm working on in September 2022
 
