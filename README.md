@@ -27,7 +27,8 @@ I also run [J.Sick Codes](https://www.jsick.codes), where I write code for more 
 - **Social web:**
   - **ActivityPub (for Mastodon):** [@jonathan@jonathansick.blog](https://micro.blog/jonathansick)
   - **Micro.blog:** [@jonathansick](https://micro.blog/jonathansick)
-- **Twitter:** [@jonathansick](https://twitter.com/jonathansick)
+  - **Instagram:** [@jonathansick](https://www.instagram.com/jonathansick/)
+  - **Twitter:** [@jonathansick](https://twitter.com/jonathansick)
 - **Email:** [hi@jsick.codes](mailto:hi@jsick.codes)
 - **Freelancing:** [jsick.codes](https://jsick.codes)
 
